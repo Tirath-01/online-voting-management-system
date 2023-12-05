@@ -9,9 +9,3 @@ The Admin section boasts a critical functionality labeled 'Action.' Here, the ad
 This Online Voting System offers a seamless experience for both Admin and normal users. The carefully crafted interface and user-specific functionalities enhance accessibility, security, and transparency throughout the voting process.
 
 
-
-
-
-Message ChatGPT…
-
-
