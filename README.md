@@ -1,2 +1,2 @@
-# online-voting-management-system
-Online voting systems
+This is an Online Voting System web app desined using HTML, CSS, Javascript,Jquery, Bootstrap, Php and MySQLi.
+ 
